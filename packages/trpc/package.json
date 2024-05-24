@@ -1,0 +1,14 @@
+{
+  "name": "@gphoto/trpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsc -b"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pkg/prisma": "*"
+  }
+}
